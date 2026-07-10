@@ -1,0 +1,11 @@
+{
+  "blogs": [
+    {
+      "title": "my first blog",
+      "body": "Welcome to my first blog! This is where I'll share my thoughts, ideas, and experiences While learning web development ",
+      "author": "Nagendra",
+      "id": "z_gnZyM6Vns"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
