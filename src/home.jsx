@@ -1,6 +1,6 @@
 import { useState,useEffect } from "react";
 import BlogList from "./blog";
-import useFetch from "./useFetch";
+import useFetch from "./usefetch";
 
 const Home = () => {
  const { data:blogs, ispanding} = useFetch('http://localhost:8000/blogs');
