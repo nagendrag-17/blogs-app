@@ -5,7 +5,7 @@ This is my multi-page blog application built with React.
 Live Demo
 
 You can view the live site here:
-https://blogs-app-rswo.onrender.com
+https://nagendra-blog-app.onrender.com
 
 
 Features
